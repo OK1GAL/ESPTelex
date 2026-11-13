@@ -1,0 +1,10 @@
+601
+dalibor-local
+0
+1
+esptelex-dalibor.lan
+192.168.1.61
+134
+0
+0
+0

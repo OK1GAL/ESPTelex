@@ -1,0 +1,10 @@
+subscriber number
+subscriber name
+flags (0)
+connection type (1)
+hostname
+ip address
+port
+externsion
+pin
+timestamp

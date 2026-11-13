@@ -1,0 +1,31 @@
+# PlatformIO build & dependency artifacts
+.pio/
+.pioenvs/
+.piolibdeps/
+.clangd/
+compile_commands.json
+
+# VS Code auto-generated local paths & workspace files
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/settings.json
+*.code-workspace
+
+# Editor & OS temporary files
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Local secrets & runtime logs (in case real SD card files are edited locally)
+*.local.*
+configs/wifi.local.txt
+configs/centralex.local.txt
+sd-contents/configs/wifi.local.txt
+sd-contents/configs/centralex.local.txt
+sd-contents/logs/*.log
+
+# Reference documents
+Communication-Specification.pdf
+

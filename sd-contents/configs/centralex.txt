@@ -1,0 +1,20 @@
+# ESPTelex Centralex Configuration
+# enabled: 1 = enable Centralex standby, 0 = disable (direct IP mode only)
+enabled=0
+
+# Centralex Server hostname or IP (primary: tlnserv2.teleprinter.net or 78.47.222.94)
+server=tlnserv2.teleprinter.net
+
+# Centralex Server port (default: 49491)
+port=49491
+
+# Your registered i-Telex subscriber number
+number=0
+
+# Your subscriber PIN
+pin=0
+
+# Optional: Invert line polarity (1 = invert idle/active polarity for machines or wiring with reversed polarity)
+# invert_polarity=0
+
+
